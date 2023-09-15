@@ -6,7 +6,7 @@ To get started with this project, follow these steps:
 ### 1. Clone the repository
 `git clone https://github.com/1zpa1/EncoderConverter.git`
 ### 2. Navigate to the project directory
-' cd EncoderConverter '
+`cd EncoderConverter`
 ### 3. Upload the required files
 Copy the files you want to encode and decode into the root directory of the project. Ensure that you have the following files:
 
@@ -16,11 +16,11 @@ Copy the files you want to encode and decode into the root directory of the proj
 Open the project in your Java development environment (e.g., IntelliJ IDEA or Eclipse).
 ### 5. Configure files in the code
 Open the *EncoderConverter.java* file in your development environment and specify the filenames you want to encode and decode in lines 8 and 52:
-'''
+```
 String fileName = "example.txt"; // Specify the filename for encoding and decoding textual data
 ...
 encodeToBase64("example.jpg"); // Specify the filename for encoding and decoding binary data
-'''
+```
 ### 6. Run the program
 Run the program from your development environment. It will encode and decode the selected files into the specified encodings.
 ### Usage
