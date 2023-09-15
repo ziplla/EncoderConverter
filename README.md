@@ -4,7 +4,7 @@ This project is a simple Java 20 program for encoding and decoding files into va
 ### Installation and Running
 To get started with this project, follow these steps:
 ### 1. Clone the repository
-' git clone https://github.com/1zpa1/EncoderConverter.git '
+`git clone https://github.com/1zpa1/EncoderConverter.git`
 ### 2. Navigate to the project directory
 ' cd EncoderConverter '
 ### 3. Upload the required files
